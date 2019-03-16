@@ -1,0 +1,7 @@
+{
+  "name": "starter-kit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Roy Spekreijse <roy@spekreijse.eu>",
+  "license": "MIT"
+}
